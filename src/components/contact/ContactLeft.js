@@ -36,22 +36,22 @@ const ContactLeft = () => {
       <div className="flex flex-col gap-4">
         <h2 className="text-base uppercase font-titleFont mb-4">Find me in</h2>
         <div className="flex gap-4">
-          <a href="https://linkedin.com/in/sanket-jirapure1" target="_blank">
+          <a href="https://linkedin.com/in/sanket-jirapure1" target="_blank" rel="noreferrer">
             <span className="bannerIcon">
               <FaLinkedinIn />
             </span>
           </a>
-          <a href="https://instagram.com/sanket_jirapure" target="_blank">
+          <a href="https://instagram.com/sanket_jirapure" target="_blank" rel="noreferrer">
             <span className="bannerIcon">
               <FaInstagram />
             </span>
           </a>
-          <a href="https://facebook.com/jirapure1sanket" target="_blank">
+          <a href="https://facebook.com/jirapure1sanket" target="_blank" rel="noreferrer">
             <span className="bannerIcon">
               <FaFacebookF />
             </span>
           </a>
-          <a href="https://twitter.com/sanket_jirapure" target="_blank">
+          <a href="https://twitter.com/sanket_jirapure" target="_blank" rel="noreferrer">
             <span className="bannerIcon">
               <FaTwitter />
             </span>
