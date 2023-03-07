@@ -5,7 +5,6 @@ import {
   FaLinkedinIn,
   FaGithub,
 } from "react-icons/fa";
-import { sgjlogo } from "../../assets/index";
 import "../../index.css";
 
 const Footer = () => {
