@@ -23,13 +23,13 @@ const Projects = () => {
           des="The chief benefit of a budget calculator is that by using it regularly, you see the upside of saving more and spending less!"
           src={projectOne}
           icon={
-            <a href="https://linkedin.com/in/sanket-jirapure1" target="_blank">
+            <a href="https://linkedin.com/in/sanket-jirapure1" target="_blank" rel="noreferrer">
               {" "}
               <BsGithub />
             </a>
           }
           icon1={
-            <a href="https://todobackbone.netlify.app" target="_blank">
+            <a href="https://todobackbone.netlify.app" target="_blank" rel="noreferrer">
               {" "}
               <FaGlobe />
             </a>
@@ -40,13 +40,13 @@ const Projects = () => {
           des="In this application we will develop a simple ToDo application which supports adding, editing, and removing tasks."
           src={projectTwo}
           icon={
-            <a href="https://linkedin.com/in/sanket-jirapure1" target="_blank">
+            <a href="https://linkedin.com/in/sanket-jirapure1" target="_blank" rel="noreferrer">
               {" "}
               <BsGithub />
             </a>
           }
           icon1={
-            <a href="https://todobackbone.netlify.app" target="_blank">
+            <a href="https://todobackbone.netlify.app" target="_blank" rel="noreferrer">
               {" "}
               <FaGlobe />
             </a>
@@ -58,13 +58,13 @@ const Projects = () => {
            purchasing."
           src={projectOne}
           icon={
-            <a href="https://linkedin.com/in/sanket-jirapure1" target="_blank">
+            <a href="https://linkedin.com/in/sanket-jirapure1" target="_blank" rel="noreferrer">
               {" "}
               <BsGithub />
             </a>
           }
           icon1={
-            <a href="https://todobackbone.netlify.app" target="_blank">
+            <a href="https://todobackbone.netlify.app" target="_blank" rel="noreferrer">
               {" "}
               <FaGlobe />
             </a>
