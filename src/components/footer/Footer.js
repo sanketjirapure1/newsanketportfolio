@@ -20,25 +20,25 @@ const Footer = () => {
     >
       <div style={{ marginTop: "5rem" }}>
         <div className="flex gap-4">
-          <a href="https://linkedin.com/in/sanket-jirapure1" target="_blank">
+          <a href="https://linkedin.com/in/sanket-jirapure1" target="_blank" rel="noreferrer">
             <span className="bannerIcon">
               <FaLinkedinIn />
             </span>
           </a>
 
-          <a href="https://github.com/sanketjirapure1" target="_blank">
+          <a href="https://github.com/sanketjirapure1" target="_blank" rel="noreferrer">
             <span className="bannerIcon">
               <FaGithub />
             </span>
           </a>
 
-          <a href="https://instagram.com/sanket_jirapure" target="_blank">
+          <a href="https://instagram.com/sanket_jirapure" target="_blank" rel="noreferrer">
             <span className="bannerIcon">
               <FaInstagram />
             </span>
           </a>
 
-          <a href="#" target="_blank">
+          <a href="#" target="_blank" rel="noreferrer">
             <span className="bannerIcon">
               {/* <FaFacebookF /> */}
               <FaBloggerB />
